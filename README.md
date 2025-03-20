@@ -40,7 +40,7 @@ A test project for learning Git and GitHub fundamentals.
 
 ## 📫 Let's Connect!
 - 🌐 [Website](https://teddjuma.netlify.app/)
-- 📧 Email: tedd.juma.0þþ@gmail.com
+- 📧 Email: tedd.juma.0@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/tedd-juma](https://linkedin.com/in/tedd-juma) 
 
 ---
