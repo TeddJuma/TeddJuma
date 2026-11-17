@@ -42,8 +42,8 @@ A test project for learning Git and GitHub fundamentals.
 - 🌐 [Website](https://teddjuma.netlify.app/)
 - 📧 Email: tedd.juma.0@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/tedd-juma)
-- 📸 Instagram: [https://www.instagram.com/tj_tedd](https://www.instagram.com/tj_tedd)
-- 📱Tiktok: [https://www.tiktok.com/@tj_tedd](https://www.tiktok.com/@tj_tedd)
+- 📸 [Instagram](https://www.instagram.com/tj_tedd)
+- 📱 [Tiktok](https://www.tiktok.com/@tj_tedd)
 
 ---
 
