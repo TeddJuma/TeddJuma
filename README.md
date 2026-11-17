@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Tedd Juma!
 
-🎓 Computer Science Student | 💻 Web Developer | 📊 Data Enthusiast | 🤖 AI Explorer
+🧠 Computer Scientist | 💻 Web Developer | 📊 Data Enthusiast | 🤖 AI Explorer | 🛠️Software Engineer
 
 ---
 
